@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokencalidate",
+        "uuid": 333136,
+        "checksum": "epfynn"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
